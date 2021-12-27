@@ -1,5 +1,3 @@
-X直播电视台 youtube油管 频道
-
 
 $c_start ceshi $c_end
 ceshi,#genre#
