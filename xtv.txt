@@ -1,11 +1,12 @@
 $c_start 港台p5p$c_end
 
-p5pfccs,#genre#
+🌟p5pfccs,#genre#
 
 BBC Lifestyle,p5p://fccs.123178.top:9906/614955d2000d41ca0d901d9987bbb53c
 BBC Earth,p5p://fccs.123178.top:9906/6044049e000eb7a609a4da5fcd30cc43.ts
 BBC WORLD NEWS,p5p://fccs.123178.top:9906/60464299000eba8708870be862b68160.ts
 BBC News,p5p://fccs.123178.top:9906/616541100002c5f412e42871dce9c076
+CNN Internationa,p5p://fccs.123178.top:9906/614941fe0007b8690d42a80e92bf1540
 國家野生,p5p://fccs.123178.top:9906/604401050005fe790996ca7b4ed24991.ts
 國家地理人文,p5p://fccs.123178.top:9906/6043ffe3000c6f3709925f52585be323.ts
 國家地理,p5p://fccs.123178.top:9906/6043485f000c065106c583978afda437
@@ -227,7 +228,7 @@ DW-TV ASIEN,tvbus://2xbq5o8vEY73SX1Ef1khhap1xj323hYzQmZUWv2kLCkBJna9Fc
 Dreamworks,p5p://fccs.123178.top:9906/60447d38000deb8b019c08cb6ec7c4d9.ts
 Comedy Central Asia,p5p://fccs.123178.top:9906/6044183b000d06f700118c4956df7f03.ts
 CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
-CNN Internationa,p5p://fccs.123178.top:9906/614941fe0007b8690d42a80e92bf1540
+
 CNBC Asia,p5p://fccs.123178.top:9906/604643c100068849088b8e0fef813f1c.ts
 Classica HD古典音樂,p5p://fccs.123178.top:9906/60689dd9000cb8ae13487fd8feab0590.ts
 Cinemax,p5p://fccs.123178.top:9906/6149544b0008eb0b0d8a2524ddcf3ee6
@@ -349,12 +350,27 @@ Bein Sport 1,p5p://fccs.123178.top:9906/6165658200031117137285d54842b1b6
 KIX,p5p://fccs.123178.top:9906/616566670008f07e137605ddefea23ec	
 Bioskop,p5p://fccs.123178.top:9906/617283a200000b8e12f9a8b81381e1a6
 Horee,p5p://fccs.123178.top:9906/617283dc0008834712fa8d73146ce99b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 $c_start 港台MITV$c_end
 🌟港台MITV,#genre#
 BBC Earth,mitv://ns2.hellotvvod.com:9906/555289b9056947f18bb9658c62299697
 BBC Lifestyle,mitv://ns2.hellotvvod.com:9906/2dcc681591d640ceb91c09b5eb7cbb83
 BBC World News,mitv://ns2.hellotvvod.com:9906/a1e038f1cfd74f758f916dc7e17572b5
-
+Al Jazeera English,mitv://ns2.hellotvvod.com:9906/f24308be3336455bb0f20ddcd641d725
+Sky News,mitv://ns2.hellotvvod.com:9906/9abf41880e9b4ac9a94ea8124203799a
+CNBC,mitv://ns2.hellotvvod.com:9906/52303054ad214adda0129d322912164d
+Bloomberg TV,mitv://ns2.hellotvvod.com:9906/3e4c9ed6b58342fbaa531f02aa120a58
+ABC Australia,mitv://ns2.hellotvvod.com:9906/f7003b714f114b3f8a91d6babf1f9ae2
+Fox News,mitv://ns2.hellotvvod.com:9906/710fa57697834a6aba081190b8aba7d3
+CBSN,mitv://ns2.hellotvvod.com:9906/8f9c3d1103124dd480b00bb645409cdc
+France24,mitv://ns2.hellotvvod.com:9906/4742de38085f41d5ae90b7e8f236c153
+DW,mitv://ns2.hellotvvod.com:9906/b957ef1774204c088bb084c051005717
+Euronews,mitv://ns2.hellotvvod.com:9906/9377cf53a2044566b6a808fa268e02fe
+CNA,mitv://ns2.hellotvvod.com:9906/a4e154daf0ed4848bdf59bca959dfecd
+TNN 16,mitv://ns2.hellotvvod.com:9906/9db5e74290a04e51a576391db32587ba
+JKN 18,mitv://ns2.hellotvvod.com:9906/c9dd4f34008646499693a08d667b9a09
 國家地理頻道,mitv://ns2.hellotvvod.com:9906/cbf2e0c0e1ed4e11a564047614cb962d
 HGTV居家樂活頻道,mitv://ns2.hellotvvod.com:9906/3ae6806990ac44dbbd5a83eea77fef7e
 探索頻道,mitv://ns2.hellotvvod.com:9906/9c0a057219044213ac643c8a8e5d50c0
@@ -419,19 +435,7 @@ CNBC Awaaz,mitv://ns2.hellotvvod.com:9906/d5f2b5f728a04933acfbfc0f63d6800f
 CGTN,mitv://ns2.hellotvvod.com:9906/a837b60759a749d3a04991d3fbfadde3
 CNN,mitv://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
 
-Al Jazeera English,mitv://ns2.hellotvvod.com:9906/f24308be3336455bb0f20ddcd641d725
-Sky News,mitv://ns2.hellotvvod.com:9906/9abf41880e9b4ac9a94ea8124203799a
-CNBC,mitv://ns2.hellotvvod.com:9906/52303054ad214adda0129d322912164d
-Bloomberg TV,mitv://ns2.hellotvvod.com:9906/3e4c9ed6b58342fbaa531f02aa120a58
-ABC Australia,mitv://ns2.hellotvvod.com:9906/f7003b714f114b3f8a91d6babf1f9ae2
-Fox News,mitv://ns2.hellotvvod.com:9906/710fa57697834a6aba081190b8aba7d3
-CBSN,mitv://ns2.hellotvvod.com:9906/8f9c3d1103124dd480b00bb645409cdc
-France24,mitv://ns2.hellotvvod.com:9906/4742de38085f41d5ae90b7e8f236c153
-DW,mitv://ns2.hellotvvod.com:9906/b957ef1774204c088bb084c051005717
-Euronews,mitv://ns2.hellotvvod.com:9906/9377cf53a2044566b6a808fa268e02fe
-CNA,mitv://ns2.hellotvvod.com:9906/a4e154daf0ed4848bdf59bca959dfecd
-TNN 16,mitv://ns2.hellotvvod.com:9906/9db5e74290a04e51a576391db32587ba
-JKN 18,mitv://ns2.hellotvvod.com:9906/c9dd4f34008646499693a08d667b9a09
+
 台視,p2p://ns2.hellotvvod.com:9906/0cde14d20638479189443549d1b1005f
 大愛,mitv://ns2.hellotvvod.com:9906/47e0000522814c6aac7d54c8bec91445
 中視,mitv://ns2.hellotvvod.com:9906/21fe3c316a13445a8a5b1f4afd39a5b1
