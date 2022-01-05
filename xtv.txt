@@ -4,9 +4,6 @@ $c_start 港台p5p$c_end
 
 BBC Lifestyle,p5p://fccs.123178.top:9906/614955d2000d41ca0d901d9987bbb53c
 BBC Earth,p5p://fccs.123178.top:9906/6044049e000eb7a609a4da5fcd30cc43.ts
-BBC208,p5p://51.81.90.208:9906/6044049e000eb7a609a4da5fcd30cc43.ts
-BBC207,p5p://51.81.90.207:9906/6044049e000eb7a609a4da5fcd30cc43.ts
-BBC177,p5p://51.81.90.177:9906/6044049e000eb7a609a4da5fcd30cc43.ts
 BBC WORLD NEWS,p5p://fccs.123178.top:9906/60464299000eba8708870be862b68160.ts
 BBC News,p5p://fccs.123178.top:9906/616541100002c5f412e42871dce9c076
 CNN Internationa,p5p://fccs.123178.top:9906/614941fe0007b8690d42a80e92bf1540
@@ -358,10 +355,6 @@ Horee,p5p://fccs.123178.top:9906/617283dc0008834712fa8d73146ce99b
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 $c_start 港台MITV$c_end
 🌟港台MITV,#genre#
-bbc208,mitv://51.81.90.208:9906/555289b9056947f18bb9658c62299697
-bbc207,mitv://51.81.90.207:9906/555289b9056947f18bb9658c62299697
-bbc177,mitv://51.81.90.177:9906/555289b9056947f18bb9658c62299697
-bbcearthP2p,P2p://51.81.90.178:9906/555289b9056947f18bb9658c62299697
 BBC Earth,mitv://ns2.hellotvvod.com:9906/555289b9056947f18bb9658c62299697
 BBC Lifestyle,mitv://ns2.hellotvvod.com:9906/2dcc681591d640ceb91c09b5eb7cbb83
 BBC World News,mitv://ns2.hellotvvod.com:9906/a1e038f1cfd74f758f916dc7e17572b5
