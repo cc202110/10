@@ -1078,6 +1078,45 @@ http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/i
 http://203.162.235.41:16908
 #EXTINF:-1 group-title="日本",フジテレビ[1280*720][1280*720]
 http://203.162.235.41:16904
+#EXTINF:-1 group-title="日本",11
+http://211.21.12.236:11935/live/cs11.stream/playlist.m3u8
+#EXTINF:-1 group-title="日本",12
+http://211.21.12.236:11935/live/cs12.stream/playlist.m3u8
+#EXTINF:-1 group-title="日本",15
+http://211.21.12.236:11935/live/cs15.stream/playlist.m3u8
+#EXTINF:-1 group-title="日本",13
+http://211.21.12.236:11935/live/cs13.stream/playlist.m3u8
+#EXTINF:-1 group-title="日本",14
+http://211.21.12.236:11935/live/cs14.stream/playlist.m3u8
+#EXTINF:-1 group-title="日本",16
+http://211.21.12.236:11935/live/cs16.stream/playlist.m3u8
+#EXTINF:-1 group-title="日本",18
+http://211.21.12.236:11935/live/cs18.stream/playlist.m3u8
+#EXTINF:-1 group-title="日本",17
+http://211.21.12.236:11935/live/cs17.stream/playlist.m3u8
+#EXTINF:-1 group-title="日本",21
+http://211.21.12.236:11935/live/cs21.stream/playlist.m3u8
+#EXTINF:-1 group-title="日本",20
+http://211.21.12.236:11935/live/cs20.stream/playlist.m3u8
+#EXTINF:-1 group-title="日本",19
+http://211.21.12.236:11935/live/cs19.stream/playlist.m3u8
+#EXTINF:-1 group-title="日本",22
+http://211.21.12.236:11935/live/cs22.stream/playlist.m3u8
+#EXTINF:-1 group-title="日本",23
+http://211.21.12.236:11935/live/cs23.stream/playlist.m3u8
+#EXTINF:-1 group-title="日本",24
+http://211.21.12.236:11935/live/cs24.stream/playlist.m3u8
+#EXTINF:-1 group-title="日本",26
+http://211.21.12.236:11935/live/cs26.stream/playlist.m3u8
+#EXTINF:-1 group-title="日本",27
+http://211.21.12.236:11935/live/cs27.stream/playlist.m3u8
+#EXTINF:-1 group-title="日本",25
+http://211.21.12.236:11935/live/cs25.stream/playlist.m3u8
+#EXTINF:-1 group-title="日本",28
+http://211.21.12.236:11935/live/cs28.stream/playlist.m3u8
+#EXTINF:-1 group-title="日本",29
+http://211.21.12.236:11935/live/cs29.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="韩国" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png",Arirang[1920*1080]
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 group-title="韩国" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png",Arirang[1920*1080]
