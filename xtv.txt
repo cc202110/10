@@ -1,3 +1,37 @@
+$c_start 测试$c_end
+
+🌟测试,#genre#
+东森财经,https://iptv.jmsooo.com/live/dscj/index.m3u8
+中视新闻,https://iptv.jmsooo.com/live/hsxw/index.m3u8
+华视新闻,https://iptv.jmsooo.com/live/msxw/index.m3u8
+民视新闻,https://iptv.jmsooo.com/live/ctiztxw/index.m3u8
+三立 iNEWS,https://iptv.jmsooo.com/live/sli/index.m3u8
+三立 LIVE,https://iptv.jmsooo.com/live/sl/index.m3u8
+台视新闻,https://iptv.jmsooo.com/live/tsxw/index.m3u8
+东森新闻,https://iptv.jmsooo.com/live/dsxw/index.m3u8
+寰宇新闻,https://iptv.jmsooo.com/live/hyxw/index.m3u8
+TVBS 56新闻台,https://iptv.jmsooo.com/live/tvbs56/index.m3u8
+TVBS 新闻,https://iptv.jmsooo.com/live/tvbsxw/index.m3u8
+CTI中天新闻,https://iptv.jmsooo.com/live/ctiztxw/index.m3u8
+日本ANN新闻,https://iptv.jmsooo.com/live/annnews/index.m3u8
+NBA TV,https://iptv.jmsooo.com/live/nbatv/index.m3u8
+华语综艺台,https://4gtv.jmsooo.com/live/hyzy/index.m3u8
+华语戏剧台,https://4gtv.jmsooo.com/live/hyxj/index.m3u8
+精选动漫台,https://4gtv.jmsooo.com/live/jxdm/index.m3u8
+经典卡通台,https://4gtv.jmsooo.com/live/jdkt/index.m3u8
+经典电影台,https://4gtv.jmsooo.com/live/jddy/index.m3u8
+运通财经,https://iptv.jmsooo.com/live/ytcj/index.m3u8
+东森财经,https://iptv.jmsooo.com/live/dscj/index.m3u8
+中视新闻,https://iptv.jmsooo.com/live/hsxw/index.m3u8
+华视新闻,https://iptv.jmsooo.com/live/msxw/index.m3u8
+民视新闻,https://iptv.jmsooo.com/live/ctiztxw/index.m3u8
+三立 iNEWS,https://iptv.jmsooo.com/live/sli/index.m3u8
+三立 LIVE,https://iptv.jmsooo.com/live/sl/index.m3u8
+台视新闻,https://iptv.jmsooo.com/live/tsxw/index.m3u8
+东森新闻,https://iptv.jmsooo.com/live/dsxw/index.m3u8
+寰宇新闻,https://iptv.jmsooo.com/live/hyxw/index.m3u8
+
+
 $c_start 港台p5p$c_end
 
 🌟p5pfccs,#genre#
