@@ -1206,7 +1206,7 @@ $c_start 香港$c_end
 翡翠台海外版(普通话简体),http://iptv.tvfix.org/hls/jadenhk2.m3u8
 J2,http://iptv.tvfix.org/hls/j2.m3u8
 无线新闻台,http://iptv.tvfix.org/hls/inews.m3u8
-无线新闻台(第2声道),http://iptv.tvfix.org/hls/inews2.m3u8
+
 明珠台,http://iptv.tvfix.org/hls/pearl.m3u8
 无线财经资讯台海外版,http://iptv.tvfix.org/hls/financenhk.m3u8
 
@@ -1216,9 +1216,7 @@ TVB星河(粤语),http://iptv.tvfix.org/hls/tvbxh.m3u8
 TVB星河(普通话),http://iptv.tvfix.org/hls/tvbxh2.m3u8
 TVB功夫台(粤语),http://iptv.tvfix.org/hls/tvbkf.m3u8
 TVB功夫(普通话),http://iptv.tvfix.org/hls/tvbkf2.m3u8
-凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
-凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
-凤凰电影,http://iptv.tvfix.org/hls/fhdy.m3u8
+
 美亚电影台(粤语),http://iptv.tvfix.org/hls/mydy.m3u8
 美亚电影台(普通话),http://iptv.tvfix.org/hls/mydy2.m3u8
 天映经典(粤语),http://iptv.tvfix.org/hls/tyjd.m3u8
@@ -1231,29 +1229,23 @@ RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
 香港国际财经台,http://iptv.tvfix.org/hls/hkibc.m3u8
 香港开电视,http://iptv.tvfix.org/hls/opentv.m3u8
 星空卫视,http://iptv.tvfix.org/hls/startv.m3u8
-经典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
-经典功夫台,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
-
-
 C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/index.m3u8
 香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 星卫电影台,http://data.3g.yy.com/live/hls/29900720/29900720
 
-
-
-
-
-
-
+凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+凤凰电影,http://iptv.tvfix.org/hls/fhdy.m3u8
+凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
 凤凰资讯,http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8	
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS	
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-凤凰资讯,https://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
-凤凰电影台,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
+
+
+
 
 
 
@@ -1263,30 +1255,20 @@ C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/index.m3u8
 $c_start 台湾$c_end
 🛰️台湾頻道,#genre#
 tvN,http://iptv.tvfix.org/hls/tvn.m3u8
-TVBS亚洲台,http://iptv.tvfix.org/hls/tvbs.m3u8
-TVBS新闻台,http://iptv.tvfix.org/hls/tvbsnews.m3u8
-中天新闻,http://iptv.tvfix.org/hls/ztxw.m3u8
-东森新闻,http://iptv.tvfix.org/hls/dsxw.m3u8
-Thrill,http://iptv.tvfix.org/hls/thrill.m3u8
 Discovery,http://iptv.tvfix.org/hls/discovery.m3u8
 动物星球,http://iptv.tvfix.org/hls/animal.m3u8
 Love Nature 4K,http://iptv.tvfix.org/hls/lovenature4k.m3u8
 Love Nature 4K(第2声道),http://iptv.tvfix.org/hls/lovenature4k.m3u8
 国家地理,http://iptv.tvfix.org/hls/natlgeo.m3u8
 Channel V,http://iptv.tvfix.org/hls/channelv.m3u8
+Thrill,http://iptv.tvfix.org/hls/thrill.m3u8
 Star Sports,http://iptv.tvfix.org/hls/starsports.m3u8
 Animax,http://iptv.tvfix.org/hls/animax.m3u8
-Animax(第2声道),http://iptv.tvfix.org/hls/animax2.m3u8
 Hands Up Channel,http://iptv.tvfix.org/hls/kid.m3u8
-Hands Up Channel(第2声道),http://iptv.tvfix.org/hls/kid2.m3u8
-瞬间看地球,http://iptv.tvfix.org/hls/earth.m3u8
-NHK综合,http://iptv.tvfix.org/hls/nhkg.m3u8
-NHK综合(第2声道),http://iptv.tvfix.org/hls/nhkg2.m3u8
-NHK教育,http://iptv.tvfix.org/hls/nhke.m3u8
-NHK教育(第2声道),http://iptv.tvfix.org/hls/nhke2.m3u8
-NHK WORLD Premium,http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
-NHK WORLD,http://iptv.tvfix.org/hls/nhkworld.m3u8
-NHK WORLD(中文字幕),http://iptv.tvfix.org/hls/nhkworldzh.m3u8
+TVBS亚洲台,http://iptv.tvfix.org/hls/tvbs.m3u8
+TVBS新闻台,http://iptv.tvfix.org/hls/tvbsnews.m3u8
+中天新闻,http://iptv.tvfix.org/hls/ztxw.m3u8
+东森新闻,http://iptv.tvfix.org/hls/dsxw.m3u8
 民视,rtmp://59.124.75.157/sat/tv051
 台视,rtmp://59.124.75.157/sat/tv071
 中视,rtmp://59.124.75.157/sat/tv091
@@ -1302,21 +1284,14 @@ ELEVEN1,rtmp://59.124.75.157/sat/tv731
 ELEVEN2,rtmp://59.124.75.157/sat/tv741
 MoMo综合台,rtmp://59.124.75.157/sat/tv761
 爱尔达体育1,rtmp://59.124.75.157/sat/md011
-爱尔达体育2,rtmp://59.124.75.157/sat/md021
-ELEVEN2,rtmp://59.124.75.157/sat/md051
-爱尔达体育1,rtmp://59.124.75.157/sat/md011
-爱尔达体育2,rtmp://59.124.75.157/sat/md031
-爱尔达体育3,rtmp://59.124.75.157/sat/md041
-有线体育台,rtmp://59.124.75.157/sat/hk011
-Sports Plus,rtmp://59.124.75.157/sat/hk021
-18台,rtmp://59.124.75.157/sat/hk041
+爱尔达体育2,rtmp://59.124.75.157/sat/md041
+博斯运动,rtmp://59.124.75.157/sat/md031
 
 台视,http://59.125.101.187:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8 
 中视,http://59.125.101.187:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8 
 华视,http://59.125.101.187:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8 
 民视,http://59.125.101.187:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8 
 公视,http://59.125.101.187:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8 
-
 国家地理,http://59.125.101.187:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8 
 Discovery,http://59.125.101.187:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8 
 旅游生活,http://59.125.101.187:8570/http/61.221.81.94:8088/hls/70/812/ch38.m3u8 
@@ -1358,9 +1333,7 @@ TVBS HD,http://59.125.101.187:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
 东森财经,http://59.125.101.187:8546/http/116.50.42.19:8081/hls/63/805/ch11.m3u8 
 寰宇新闻,http://220.135.55.74:8569/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
 寰宇新闻,http://59.125.101.187:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8 
-
 壹新闻台,http://59.125.101.187:8548/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
-
 CNN新闻,http://59.125.101.187:8549/http/116.50.42.19:8081/hls/68/810/ch29.m3u8 
 CNBC新闻,http://59.125.101.187:8550/http/116.50.42.19:8078/hls/24/80/cnbc90.m3u8 
 Bloomberg,http://59.125.101.187:8551/http/116.50.42.19:8078/hls/43/80/bloomber.m3u8 
@@ -1383,7 +1356,14 @@ ELEVEN SPORTS 2,http://59.125.101.187:8567/http/59.120.8.187:8078/hls/26/80/espo
 人间卫视,http://59.125.101.187:8506/http/61.221.81.94:8088/hls/69/811/ch36.m3u8 
 大爱,http://59.125.101.187:8507/http/61.221.81.94:8088/hls/73/815/ch52.m3u8 
 好消息,http://59.125.101.187:8508/http/61.221.81.94:8088/hls/74/816/ch53.m3u8 
-
+瞬间看地球,http://iptv.tvfix.org/hls/earth.m3u8
+NHK综合,http://iptv.tvfix.org/hls/nhkg.m3u8
+NHK综合,http://iptv.tvfix.org/hls/nhkg2.m3u8
+NHK教育,http://iptv.tvfix.org/hls/nhke.m3u8
+NHK教育,http://iptv.tvfix.org/hls/nhke2.m3u8
+NHK WORLD Premium,http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
+NHK WORLD,http://iptv.tvfix.org/hls/nhkworld.m3u8
+NHK WORLD(中文字幕),http://iptv.tvfix.org/hls/nhkworldzh.m3u8
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 $c_start 港台代理$c_end
