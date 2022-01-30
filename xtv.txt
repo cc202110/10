@@ -1198,7 +1198,7 @@ CCTV16-4K 34M2160HDR,http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/322
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 $c_start 香港$c_end
-🛰️香港頻道,#genre#
+🛰️香港代理,#genre#
 
 翡翠台,http://iptv.tvfix.org/hls/jade.m3u8
 翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
@@ -1254,21 +1254,7 @@ C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/index.m3u8
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 $c_start 台湾$c_end
 🛰️台湾頻道,#genre#
-tvN,http://iptv.tvfix.org/hls/tvn.m3u8
-Discovery,http://iptv.tvfix.org/hls/discovery.m3u8
-动物星球,http://iptv.tvfix.org/hls/animal.m3u8
-Love Nature 4K,http://iptv.tvfix.org/hls/lovenature4k.m3u8
-Love Nature 4K(第2声道),http://iptv.tvfix.org/hls/lovenature4k.m3u8
-国家地理,http://iptv.tvfix.org/hls/natlgeo.m3u8
-Channel V,http://iptv.tvfix.org/hls/channelv.m3u8
-Thrill,http://iptv.tvfix.org/hls/thrill.m3u8
-Star Sports,http://iptv.tvfix.org/hls/starsports.m3u8
-Animax,http://iptv.tvfix.org/hls/animax.m3u8
-Hands Up Channel,http://iptv.tvfix.org/hls/kid.m3u8
-TVBS亚洲台,http://iptv.tvfix.org/hls/tvbs.m3u8
-TVBS新闻台,http://iptv.tvfix.org/hls/tvbsnews.m3u8
-中天新闻,http://iptv.tvfix.org/hls/ztxw.m3u8
-东森新闻,http://iptv.tvfix.org/hls/dsxw.m3u8
+
 民视,rtmp://59.124.75.157/sat/tv051
 台视,rtmp://59.124.75.157/sat/tv071
 中视,rtmp://59.124.75.157/sat/tv091
@@ -1368,7 +1354,21 @@ NHK WORLD(中文字幕),http://iptv.tvfix.org/hls/nhkworldzh.m3u8
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 $c_start 港台代理$c_end
 🚀港台代理,#genre#
-
+tvN,http://iptv.tvfix.org/hls/tvn.m3u8
+Discovery,http://iptv.tvfix.org/hls/discovery.m3u8
+动物星球,http://iptv.tvfix.org/hls/animal.m3u8
+Love Nature 4K,http://iptv.tvfix.org/hls/lovenature4k.m3u8
+Love Nature 4K(第2声道),http://iptv.tvfix.org/hls/lovenature4k.m3u8
+国家地理,http://iptv.tvfix.org/hls/natlgeo.m3u8
+Channel V,http://iptv.tvfix.org/hls/channelv.m3u8
+Thrill,http://iptv.tvfix.org/hls/thrill.m3u8
+Star Sports,http://iptv.tvfix.org/hls/starsports.m3u8
+Animax,http://iptv.tvfix.org/hls/animax.m3u8
+Hands Up Channel,http://iptv.tvfix.org/hls/kid.m3u8
+TVBS亚洲台,http://iptv.tvfix.org/hls/tvbs.m3u8
+TVBS新闻台,http://iptv.tvfix.org/hls/tvbsnews.m3u8
+中天新闻,http://iptv.tvfix.org/hls/ztxw.m3u8
+东森新闻,http://iptv.tvfix.org/hls/dsxw.m3u8
 J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 无线新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
 明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
