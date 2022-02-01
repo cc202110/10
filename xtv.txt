@@ -999,20 +999,20 @@ EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/446502d9b45941efb5bf52f21a282471
 
 $c_start 新闻$c_end
 🎤新闻©频道,#genre#
-CCTV4K HDR1,http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
-CCTV4K HDR2,http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
-CCTV4K HDR3,https://p.ggiptv.com/v/4k.m3u8
-CCTV4K HDR4,http://ye23.win/iptv/4k.cctv.php
+CCTV4K UHD,http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
+CCTV4K UHD,http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
+CCTV4K HDR,https://p.ggiptv.com/v/4k.m3u8
+CCTV4K HDR,http://ye23.win/iptv/4k.cctv.php
 CCTV奥林匹克4K,http://223.110.235.9/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
 CCTV奥林匹克4K HDR,http://223.110.235.24/ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
 CCTV奥林匹克4K HDR,http://ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
-CCTV奥林匹克1,http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
-CCTV奥林匹克2,http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
+CCTV奥林匹克,http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
+CCTV奥林匹克,http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
 
-CCTV奥林匹克3,http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?channel-id=ystenlive
-CCTV奥林匹克4,http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
-CCTV奥林匹克5,http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
-CCTV奥林匹克6,http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?channel-id=ystenlive
+CCTV奥林匹克,http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?channel-id=ystenlive
+CCTV奥林匹克,http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
+CCTV奥林匹克,http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
+CCTV奥林匹克,http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?channel-id=ystenlive
 CCTV13,http://111.11.121.184:6610/030000001001/cctv-13/1.m3u8?channel-id=ystenlive
 CCTV13,http://223.110.251.219:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/.m3u8
 CCTV13,http://39.135.138.60:18890/TVOD/88888910/224/3221225638/index.m3u8
