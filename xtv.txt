@@ -13,7 +13,14 @@ CCTV5,http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv5/1.m3u8?channe
 CCTV5,http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv5/1.m3u8?channel-id=ystenlive
 CCTV5+HD,http://111.11.121.184:6610/030000001001/hdcctv05plus/1.m3u8?channel-id=ystenlive
 CCTV5+HD,http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv05plus/1.m3u8?channel-id=ystenlive
-
+咪咕_冬奥8,http://39.135.46.246:6610/PLTV/77777777/224/3221225808/index.m3u8?vamoschucktv
+咪咕_冬奥3,http://39.135.46.246:6610/PLTV/77777777/224/3221225839/index.m3u8?vamoschucktv
+咪咕CCTV1,http://39.135.46.246:6610/PLTV/77777777/224/3221225814/index.m3u8?vamoschucktv
+咪咕cctv5,http://39.135.46.246:6610/PLTV/77777777/224/3221225805/index.m3u8?vamoschucktv
+咪咕cctv5+,http://39.135.46.246:6610/PLTV/77777777/224/3221225854/index.m3u8?vamoschucktv
+咪咕冬奥纪实,http://39.135.46.246:6610/PLTV/77777777/224/3221225857/index.m3u8?vamoschucktv
+咪咕-4K,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?vamoschucktv
+咪咕-4K,http://39.135.46.246:6610/PLTV/77777777/224/3221225863/index.m3u8?vamoschucktv
 CCTV奥林匹克4K HDR,http://223.110.235.9/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
 CCTV奥林匹克4K HDR,http://223.110.235.24/ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
 CCTV奥林匹克4K HDR,http://ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
@@ -25,23 +32,22 @@ CCTV奥林匹克,http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m
 CCTV奥林匹克,http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
 CCTV奥林匹克,http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?channel-id=ystenlive
 咪咕视频 冬奥0,http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
-咪咕视频 冬奥9,http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
+
 咪咕视频,http://39.134.66.66/PLTV/88888888/224/3221225617/index.m3u8
 咪咕视频 NBA,http://39.134.66.66/PLTV/88888888/224/3221225619/index.m3u8
 广西咪咕—法甲-1,http://39.135.46.246:6610/PLTV/77777777/224/3221225786/index.m3u8?vamoschucktv
 广西咪咕—西甲-1,http://39.135.46.246:6610/PLTV/77777777/224/3221225817/index.m3u8?vamoschucktv
-广西咪咕—意甲-1,http://39.135.46.246:6610/PLTV/77777777/224/3221225814/index.m3u8?vamoschucktv
+
 广西咪咕—CBA-1,http://39.135.46.246:6610/PLTV/77777777/224/3221225811/index.m3u8?vamoschucktv
 广西咪咕—CBA-2,http://39.135.46.246:6610/PLTV/77777777/224/3221225783/index.m3u8?vamoschucktv
 广西咪咕—CBA-3,http://39.135.46.246:6610/PLTV/77777777/224/3221225780/index.m3u8?vamoschucktv
 广西咪咕—CBA-4,http://39.135.46.246:6610/PLTV/77777777/224/3221225848/index.m3u8?vamoschucktv
 广西咪咕—CBA-5,http://39.135.46.246:6610/PLTV/77777777/224/3221225851/index.m3u8?vamoschucktv
-广西咪咕—CBA-6,http://39.135.46.246:6610/PLTV/77777777/224/3221225857/index.m3u8?vamoschucktv
+
 广西咪咕-NBA-1,http://39.135.46.246:6610/PLTV/77777777/224/3221225842/index.m3u8?vamoschucktv
-广西咪咕-4K,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?vamoschucktv
-广西咪咕-4K,http://39.135.46.246:6610/PLTV/77777777/224/3221225863/index.m3u8?vamoschucktv
-广西咪咕_冬奥3,http://39.135.46.246:6610/PLTV/77777777/224/3221225839/index.m3u8?vamoschucktv
-广西咪咕_冬奥cctv5,http://39.135.46.246:6610/PLTV/77777777/224/3221225805/index.m3u8?vamoschucktv
+
+
+
 广西咪咕_冬奥2,http://39.135.46.246:6610/PLTV/77777777/224/3221225799/index.m3u8?vamoschucktv
 广西咪咕_冬奥1,http://39.135.46.246:6610/PLTV/77777777/224/3221225793/index.m3u8?vamoschucktv
 广西咪咕_NBA6,http://39.135.46.246:6610/PLTV/77777777/224/3221225792/index.m3u8?vamoschucktv
@@ -50,7 +56,7 @@ CCTV奥林匹克,http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1
 广西咪咕-赛事轮播,http://39.135.46.246:6610/PLTV/77777777/224/3221225935/index.m3u8?vamoschucktv
 广西咪咕-赛事轮播,http://39.135.46.246:6610/PLTV/77777777/224/3221225906/index.m3u8?vamoschucktv
 广西咪咕-国内赛事,http://39.135.46.246:6610/PLTV/77777777/224/3221225853/index.m3u8?vamoschucktv
-
+咪咕视频电视剧,http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
 广西咪咕_4,http://39.135.46.246:6610/PLTV/77777777/224/3221225962/index.m3u8?vamoschucktv
 广西咪咕_5,http://39.135.46.246:6610/PLTV/77777777/224/3221225959/index.m3u8?vamoschucktv
 广西咪咕_9,http://39.135.46.246:6610/PLTV/77777777/224/3221225920/index.m3u8?vamoschucktv
@@ -73,7 +79,7 @@ CCTV奥林匹克,http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1
 广西咪咕_26,http://39.135.46.246:6610/PLTV/77777777/224/3221225858/index.m3u8?vamoschucktv
 广西咪咕_28,http://39.135.46.246:6610/PLTV/77777777/224/3221225856/index.m3u8?vamoschucktv
 广西咪咕_29,http://39.135.46.246:6610/PLTV/77777777/224/3221225855/index.m3u8?vamoschucktv
-广西咪咕_30,http://39.135.46.246:6610/PLTV/77777777/224/3221225854/index.m3u8?vamoschucktv
+
 广西咪咕_32,http://39.135.46.246:6610/PLTV/77777777/224/3221225852/index.m3u8?vamoschucktv
 广西咪咕_34,http://39.135.46.246:6610/PLTV/77777777/224/3221225849/index.m3u8?vamoschucktv
 广西咪咕_36,http://39.135.46.246:6610/PLTV/77777777/224/3221225846/index.m3u8?vamoschucktv
@@ -84,7 +90,7 @@ CCTV奥林匹克,http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1
 广西咪咕_42,http://39.135.46.246:6610/PLTV/77777777/224/3221225837/index.m3u8?vamoschucktv
 广西咪咕_43,http://39.135.46.246:6610/PLTV/77777777/224/3221225834/index.m3u8?vamoschucktv
 广西咪咕_44,http://39.135.46.246:6610/PLTV/77777777/224/3221225820/index.m3u8?vamoschucktv
-广西咪咕_48,http://39.135.46.246:6610/PLTV/77777777/224/3221225808/index.m3u8?vamoschucktv
+
 
 广西咪咕_50,http://39.135.46.246:6610/PLTV/77777777/224/3221225802/index.m3u8?vamoschucktv
 
@@ -96,7 +102,7 @@ CCTV奥林匹克,http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1
 广西咪咕_61,http://39.135.46.246:6610/PLTV/77777777/224/3221225771/index.m3u8?vamoschucktv
 广西咪咕_62,http://39.135.46.246:6610/PLTV/77777777/224/3221225769/index.m3u8?vamoschucktv
 广西咪咕_63,http://39.135.46.246:6610/PLTV/77777777/224/3221225654/index.m3u8?vamoschucktv
-北京冬奥8k,http://down.btvcloud.com:80/8k2021zhibo/zhibo8K2021.m3u8
+
 4K修复,http://ott.js.chinamobile.com/PLTV/3/224/3221228141/index.m3u8
 4K修复,http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228141/index.m3u8
 
