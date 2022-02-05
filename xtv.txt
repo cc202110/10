@@ -1,10 +1,6 @@
 $c_start 测试1$c_end
 
 🌟测试1,#genre#
-dsdy,http://host496323.us.ooqr.com/pltv/gdgz.php?id=dsdy&upt=7e4f8041b306488a
-中天新闻台,https://tv1.6zxr.xyz/1/qq/hls/index.m3u8
-TVBS精选,https://tv1.6zxr.xyz/1/tvbs56/hls/index.m3u8
-东森新闻台,https://tv1.6zxr.xyz/1/dsxw/hls/index.m3u8
 
 
 
