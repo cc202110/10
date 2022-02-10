@@ -1464,6 +1464,17 @@ $c_start 卫视$c_end
 $c_start 港台$c_end
 🛰️港台,#genre#
 翡翠台,http://61.222.202.191/tbs.php?id=1
+J2台,http://61.222.202.191/tbs.php?id=12
+无线财经,http://61.222.202.191/tbs.php?id=10
+无线新闻,http://61.222.202.191/tbs.php?id=9
+明珠台,http://61.222.202.191/tbs.php?id=13
+VIUTV,http://61.222.202.191/tbs.php?id=8
+香港开电视,http://61.222.202.191/tbs.php?id=7
+RHK31,http://61.222.202.191/tbs.php?id=20
+RHK32,http://61.222.202.191/tbs.php?id=21
+now新闻,http://61.222.202.191/tbs.php?id=16
+now财经http://61.222.202.191/tbs.php?id=17
+
 J2台,http://50.7.218.42:8278/j2_twn/playlist.m3u8?tid=ME1E2231530922315309&ct=19030&tsum=75566c3660711276e2c5e760db4ff840
 无线新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
 明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
