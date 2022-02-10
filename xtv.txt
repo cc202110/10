@@ -1473,8 +1473,15 @@ VIUTV,http://61.222.202.191/tbs.php?id=8
 RHK31,http://61.222.202.191/tbs.php?id=20
 RHK32,http://61.222.202.191/tbs.php?id=21
 now新闻,http://61.222.202.191/tbs.php?id=16
-now财经http://61.222.202.191/tbs.php?id=17
-
+now财经,http://61.222.202.191/tbs.php?id=17
+HKC有线新闻台,http://61.222.202.191/tbs.php?id=24
+18台,http://61.222.202.191/tbs.php?id=25
+HKC有线603,http://61.222.202.191/tbs.php?id=26
+HKC有线体育台,http://61.222.202.191/tbs.php?id=27
+HKC有线财经资讯台,http://61.222.202.191/tbs.php?id=28
+澳门资讯,http://61.222.202.191/tbs.php?id=32
+澳视澳门,http://61.222.202.191/tbs.php?id=33
+民视综艺,http://61.222.202.191/tbs.php?id=101
 J2台,http://50.7.218.42:8278/j2_twn/playlist.m3u8?tid=ME1E2231530922315309&ct=19030&tsum=75566c3660711276e2c5e760db4ff840
 无线新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
 明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
