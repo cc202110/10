@@ -1465,7 +1465,21 @@ $c_start 港台$c_end
 🛰️港台,#genre#
 翡翠台,http://61.222.202.191/tbs.php?id=1
 J2台,http://50.7.218.42:8278/j2_twn/playlist.m3u8?tid=ME1E2231530922315309&ct=19030&tsum=75566c3660711276e2c5e760db4ff840
-Supersports 3,http://50.7.218.42:8278/Assp3/playlist.m3u8?tid=ME9E8031007880310078&ct=19030&tsum=51f9fb5f5a19fd24820604861c2470cb
+无线新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+无线财经,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+VIUTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+VIUTV6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+RHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
+RHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+
+HKC有线新闻台,https://api.leonardpark.dev/live/icable/109
+HKC有线财经资讯台,https://api.leonardpark.dev/live/icable/108
+HKC有线直播新闻台,https://api.leonardpark.dev/live/icable/110
+
+香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/index.m3u8
@@ -1473,14 +1487,13 @@ C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/index.m3u8
 星卫电影台,http://data.3g.yy.com/live/hls/29900720/29900720
 
 
-凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 
 凤凰资讯,http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8	
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS	
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 
 民视,rtmp://59.124.75.157/sat/tv051
 台视,rtmp://59.124.75.157/sat/tv071
@@ -1578,21 +1591,7 @@ NHK WORLD Premium,http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
 NHK WORLD,http://iptv.tvfix.org/hls/nhkworld.m3u8
 NHK WORLD(中文字幕),http://iptv.tvfix.org/hls/nhkworldzh.m3u8
 
-无线新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
-明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-无线财经,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
-VIUTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-VIUTV6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
-RHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-RHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
-翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 
-HKC有线新闻台,https://api.leonardpark.dev/live/icable/109
-HKC有线财经资讯台,https://api.leonardpark.dev/live/icable/108
-HKC有线直播新闻台,https://api.leonardpark.dev/live/icable/110
-
-香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 中视,http://50.7.61.148:30080/Entry/ctv
 台视,http://50.7.61.148:30080/Entry/ttv
