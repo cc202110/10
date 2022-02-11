@@ -1,24 +1,36 @@
 $c_start 测试1$c_end
 
 🌟测试1,#genre#
+CNBC (1080p) [Not 24/7],http://s1.mysportz.tv:2082/CNBC/playlist.m3u8
+CNBC TV 18 (504p),https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+CNN (720p),http://encodercdn1.frontline.ca/encoder184/output/CNN_720p/playlist.m3u8
+CNN Brasil (1080p) [Not 24/7],http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
+Fox 23 Tulsa OK (KOKI-TV) (720p),https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8
+Fox 28 Savannah GA (WTGS) (720p),https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+Fox Boston MA (WFXT1) (720p) [Not 24/7],http://encodercdn1.frontline.ca/encoder182/output/FOX_Boston_720p/playlist.m3u8
+Fox Buffalo NY (WUTV1) (720p),http://encodercdn1.frontline.ca/vantrix/ltv/Bell_FOXHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
+Fox Crime Adria [Offline],https://cdn1.mobiletv.bg/T10/fox_crime/fox_crime_794613_850k.m3u8
+Fox Greece (240p) [Not 24/7],http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+like Gecko Chrome/76.0.3809.25 Safari/537.36,https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+Fox News Channel (720p),http://encodercdn1.frontline.ca/encoder181/output/FOX_News_720p/playlist.m3u8
+Fox News Radio (720p),https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+FOX Rochester NY (WUHF-DT1) (720p),http://encodercdn1.frontline.ca/encoder184/output/FOX_Rochester_720p/playlist.m3u8
+Fox Seattle WA (KCPQ1) (720p),http://encodercdn1.frontline.ca/geonosis/output/FOX_Seattle_720p/playlist.m3u8
+FOX Spokane WA (KAYU-TV1) (720p),http://encodercdn1.frontline.ca/encoder182/output/FOX_Spokane_720p/playlist.m3u8
 
-3ABN (720p) [Not 24/7],https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
-3ABN Dare to Dream (720p) [Not 24/7],https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/master.m3u8
-
-3ABN International (720p) [Not 24/7],https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
-3ABN Kids (720p) [Not 24/7],https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-
-3ABN Praise Him Music Channel (720p) [Not 24/7],https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
-3ABN Proclaim! (720p) [Not 24/7],https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/master.m3u8
-
-7News Boston MA (WHDH) (540p),https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
-23 ABC Bakersfield CA (KERO) (720p),https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
-30A Darcizzle Offshore (720p),https://30a-tv.com/darcizzle.m3u8
-30A Investment Pitch (720p),https://30a-tv.com/feeds/xodglobal/30atv.m3u8
-30A Music (720p),https://30a-tv.com/music.m3u8
-30A Sidewalks (720p),https://30a-tv.com/sidewalks.m3u8
-30A The Beach Show (720p),https://30a-tv.com/beachy.m3u8
-
+Fox Tallahassee FL (WTWC-TV2) (720p),https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/playlist.m3u8
+Bloomberg Quicktake (1080p),https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
+Bloomberg Quicktake (720p),https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-03-qPp9HnlfNtK_live.m3u8
+Bloomberg TV Asia (720p),https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+Bloomberg TV Australia (720p),https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
+Bloomberg TV Australia (270p),https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8
+Bloomberg TV Europe (720p),https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+Bloomberg TV Europe (360p),https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
+Bloomberg TV US (720p),https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+Bloomberg TV US (720p),https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+Bloomberg TV US (360p),https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-700-1_live.m3u8
+Bloomberg TV US (360p),https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
+Bloomberg TV US (180p),https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
 ABC 2 Baton Rouge LA (WBRZ) (720p) [Not 24/7],http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
 ABC 4 Seattle WA (KOMO-TV) (720p),https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
 ABC 7 Denver CO (KMGH) (720p),https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
@@ -40,6 +52,41 @@ ABC News Live 8 (720p),https://abcnews-streams.akamaized.net/hls/live/2023567/ab
 ABC News Live 9 (720p),https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
 ABC News Live 10 (720p),https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
 ABC News New York NY (WABC-TV) (720p),https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+CBS 3 Omaha NE (KMTV-TV) (720p),https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
+CBS 3 Omaha NE (KMTV-TV) (720p),https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+CBS 6 Albany NY (WRGB) (720p),https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
+CBS 12 West Palm Beach FL (WPEC) (720p),https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8
+CBS 47 Action News Jacksonville FL (WJAX-TV) (720p),https://d2eit0bra9qkiw.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10050_b9ac3c93-be86-4f7e-82b8-796b7f8bfda3_LE/in/cmg-wjaxtv-hls-v3/live.m3u8
+
+
+CBS News Baltimore (720p),https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+CBS News Live (360p),https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+CBS News Sacramento (720p),https://cbsnews.akamaized.net/hls/live/2020607/cbsnsac_2/master.m3u8
+CBS Seattle WA (KIRO-TV1) (720p),http://encodercdn1.frontline.ca/geonosis/output/CBS_Seattle_720p/playlist.m3u8
+CBS Seattle WA (KIRO-TV1) (480p),http://encodercdn1.frontline.ca/geonosis/output/CBS_Seattle/playlist.m3u8
+CBS Tallahassee FL (WCTV1) (720p) [Not 24/7],https://5e6cea03e25b6.streamlock.net/live/WCTVDT.stream/playlist.m3u8
+CBSN (720p) [Not 24/7],https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
+CBSN Live Event (720p),https://cbsnewshd-lh.akamaihd.net/i/cbsnewsLivePlayer_1@196305/master.m3u8
+
+
+
+3ABN (720p) [Not 24/7],https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
+3ABN Dare to Dream (720p) [Not 24/7],https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/master.m3u8
+
+3ABN International (720p) [Not 24/7],https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
+3ABN Kids (720p) [Not 24/7],https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+
+3ABN Praise Him Music Channel (720p) [Not 24/7],https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
+3ABN Proclaim! (720p) [Not 24/7],https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/master.m3u8
+
+7News Boston MA (WHDH) (540p),https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+23 ABC Bakersfield CA (KERO) (720p),https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+30A Darcizzle Offshore (720p),https://30a-tv.com/darcizzle.m3u8
+30A Investment Pitch (720p),https://30a-tv.com/feeds/xodglobal/30atv.m3u8
+30A Music (720p),https://30a-tv.com/music.m3u8
+30A Sidewalks (720p),https://30a-tv.com/sidewalks.m3u8
+30A The Beach Show (720p),https://30a-tv.com/beachy.m3u8
+
 
 American Horrors (1080p),http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
@@ -66,18 +113,7 @@ Better Life TV (720p),https://uni10rtmp.tulix.tv/betterlife/betterlife.stream/pl
 
 Blaze TV (720p),https://theblaze4.akamaized.net/hls/live/699982/theblaze/cm-dvr/master.m3u8
 
-Bloomberg Quicktake (1080p),https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8
-Bloomberg Quicktake (720p),https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-03-qPp9HnlfNtK_live.m3u8
-Bloomberg TV Asia (720p),https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-Bloomberg TV Australia (720p),https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
-Bloomberg TV Australia (270p),https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8
-Bloomberg TV Europe (720p),https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-Bloomberg TV Europe (360p),https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
-Bloomberg TV US (720p),https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-Bloomberg TV US (720p),https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-Bloomberg TV US (360p),https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-700-1_live.m3u8
-Bloomberg TV US (360p),https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
-Bloomberg TV US (180p),https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
+
 Bluegrass Music 4U (360p) [Not 24/7],https://59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8
 Boston 25 News (WFXT) (540p),https://d2dy6pkj44n6e7.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10020_27d61a9c-67b2-4d7c-9486-626a6a071467_LE/in/cmg-wftxtv-hls-v3/live.m3u8
 
@@ -92,21 +128,7 @@ Camp Spoopy (1080p),https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 Canela TV (720p),https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65
 Captital OTB Betting (720p) [Not 24/7],https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
 Catholic TV (720p) [Not 24/7],http://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/master.m3u8
-CBS 3 Omaha NE (KMTV-TV) (720p),https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
-CBS 3 Omaha NE (KMTV-TV) (720p),https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
-CBS 6 Albany NY (WRGB) (720p),https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
-CBS 12 West Palm Beach FL (WPEC) (720p),https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8
-CBS 47 Action News Jacksonville FL (WJAX-TV) (720p),https://d2eit0bra9qkiw.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10050_b9ac3c93-be86-4f7e-82b8-796b7f8bfda3_LE/in/cmg-wjaxtv-hls-v3/live.m3u8
 
-
-CBS News Baltimore (720p),https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-CBS News Live (360p),https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-CBS News Sacramento (720p),https://cbsnews.akamaized.net/hls/live/2020607/cbsnsac_2/master.m3u8
-CBS Seattle WA (KIRO-TV1) (720p),http://encodercdn1.frontline.ca/geonosis/output/CBS_Seattle_720p/playlist.m3u8
-CBS Seattle WA (KIRO-TV1) (480p),http://encodercdn1.frontline.ca/geonosis/output/CBS_Seattle/playlist.m3u8
-CBS Tallahassee FL (WCTV1) (720p) [Not 24/7],https://5e6cea03e25b6.streamlock.net/live/WCTVDT.stream/playlist.m3u8
-CBSN (720p) [Not 24/7],https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
-CBSN Live Event (720p),https://cbsnewshd-lh.akamaihd.net/i/cbsnewsLivePlayer_1@196305/master.m3u8
 
 CCX Media North Brooklyn Park MN (1080p),http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 Celebrity Scene TV (720p),https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8
@@ -129,10 +151,7 @@ CinePride (720p),https://content.uplynk.com/channel/e54d7e92a0154d67ae0770c9d421
 Circle Tallahassee FL (WCTV3) (480p),https://5e6cea03e25b6.streamlock.net/live/ION.stream/playlist.m3u8
 
 Cloudflare TV (720p),https://cloudflare.tv/hls/live.m3u8
-CNBC (1080p) [Not 24/7],http://s1.mysportz.tv:2082/CNBC/playlist.m3u8
-CNBC TV 18 (504p),https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-CNN (720p),http://encodercdn1.frontline.ca/encoder184/output/CNN_720p/playlist.m3u8
-CNN Brasil (1080p) [Not 24/7],http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
+
 Comet (720p),http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 CONtv (1080p),https://d2rir1vttzppfq.cloudfront.net/playlist.m3u8
 
@@ -155,22 +174,7 @@ Fighting Spirit (360p),https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
 Fireplace Lounge (720p),https://a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
 Fish Tank (720p),https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
 Folk TV East (480p) [Not 24/7],https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/playlist.m3u8
-Fox 23 Tulsa OK (KOKI-TV) (720p),https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8
-Fox 28 Savannah GA (WTGS) (720p),https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-Fox Boston MA (WFXT1) (480p),http://encodercdn1.frontline.ca/encoder182/output/FOX_Boston/playlist.m3u8
-Fox Boston MA (WFXT1) (720p) [Not 24/7],http://encodercdn1.frontline.ca/encoder182/output/FOX_Boston_720p/playlist.m3u8
-Fox Buffalo NY (WUTV1) (720p),http://encodercdn1.frontline.ca/vantrix/ltv/Bell_FOXHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
-Fox Crime Adria [Offline],https://cdn1.mobiletv.bg/T10/fox_crime/fox_crime_794613_850k.m3u8
-Fox Greece (240p) [Not 24/7],http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-like Gecko Chrome/76.0.3809.25 Safari/537.36,https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
-Fox News Channel (720p),http://encodercdn1.frontline.ca/encoder181/output/FOX_News_720p/playlist.m3u8
-Fox News Radio (720p),https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-FOX Rochester NY (WUHF-DT1) (720p),http://encodercdn1.frontline.ca/encoder184/output/FOX_Rochester_720p/playlist.m3u8
-Fox Seattle WA (KCPQ1) (720p),http://encodercdn1.frontline.ca/geonosis/output/FOX_Seattle_720p/playlist.m3u8
-Fox Seattle WA (KCPQ1) (480p),http://encodercdn1.frontline.ca/geonosis/output/FOX_Seattle/playlist.m3u8
-FOX Spokane WA (KAYU-TV1) (720p),http://encodercdn1.frontline.ca/encoder182/output/FOX_Spokane_720p/playlist.m3u8
-FOX Spokane WA (KAYU-TV1) (480p),http://encodercdn1.frontline.ca/encoder182/output/FOX_Spokane/playlist.m3u8
-Fox Tallahassee FL (WTWC-TV2) (720p),https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/playlist.m3u8
+
 FrightFlix (720p),https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8
 Fun Roads (720p),http://104.143.4.5:2080/funroads.m3u8
 Galveston County TV (720p) [Not 24/7],https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8
@@ -296,29 +300,7 @@ NASA TV Media (720p),https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/m
 NASA TV Public (720p),https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 National Geographic Wild [Offline],https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
 National Geographic Wild Russia (1080p) [Not 24/7],https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-NBC 5 News Chicago IL (WMAQ-TV) (1080p),https://wmaqlive-f.akamaihd.net/i/CHICAGO_STREAM1@22923/master.m3u8
-NBC 11 Pittsburgh PA (WPXI) (720p),https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wpxitv-hls-v3/live.m3u8
-NBC 15 Madison WI (WMTV) (720p),https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
-NBC 26 Green Bay WI (WGBA) (720p),https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
-NBC Boston MA (WBTS-CD1) (720p),http://encodercdn1.frontline.ca/encoder183/output/NBC_Boston_720p/playlist.m3u8
-NBC Boston MA (WBTS-CD1) (480p) [Not 24/7],http://encodercdn1.frontline.ca/encoder183/output/NBC_Boston/playlist.m3u8
-NBC Buffalo NY (WGRZ1) (720p),http://encodercdn1.frontline.ca/vantrix/ltv/Bell_NBCHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
-NBC Golf Channel (1080p) [Not 24/7],http://s1.mysportz.tv:2082/golf/playlist.m3u8
-NBC New York (WNBC-DT1) (720p),http://38.91.57.12:2082/nbc/playlist.m3u8
-NBC News Now (1080p),http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
-NBC News Now (1080p) [Offline],https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
-NBC News Now Event 2 (360p),https://nbcnews-lh.akamaihd.net/i/nbc_live12@187393/master.m3u8
-NBC News Now Event 3 (460p),https://nbcnews-lh.akamaihd.net/i/nbc_live13@187394/master.m3u8
-NBC News Now Event 4 (720p),https://nbcnews-lh.akamaihd.net/i/nbc_live14@187395/master.m3u8
-NBC Seattle WA (KING-TV1) (720p),http://encodercdn1.frontline.ca/bespin/output/NBC_Seattle_720p/playlist.m3u8
-NBC Seattle WA (KING-TV1) (480p),http://encodercdn1.frontline.ca/bespin/output/NBC_Seattle/playlist.m3u8
-NBC Spokane WA (KHQ-TV1) (720p),http://encodercdn1.frontline.ca/encoder184/output/NBC_Spokane_720p/playlist.m3u8
-NBC Spokane WA (KHQ-TV1) (480p),http://encodercdn1.frontline.ca/encoder184/output/NBC_Spokane/playlist.m3u8
-NBC Tallahassee FL (WTWC-TV1) (720p),https://5e6cea03e25b6.streamlock.net/live/WTWC-NB.stream/playlist.m3u8
-NBC-CT WVIT-TV News Hartford CT (1080p),https://wvitlive-f.akamaihd.net/i/HARTFORD_STREAM1@22924/master.m3u8
-NBC4 WNBC-TV New York News (1080p) [Not 24/7],https://wnbclive-f.akamaihd.net/i/NY_STREAM1@13992/master.m3u8
-NBC4 WRC-TV Washington News (1080p),https://wrclive-f.akamaihd.net/i/DC_STREAM1@22925/master.m3u8
-NBCLX (1080p),https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
+
 Negah TV (720p) [Not 24/7],https://iptv.negahtv.com/negahtv/playlist2/index.m3u8
 NESN National (1080p),https://bcovlive-a.akamaihd.net/bea11a7dfef34b08be06aaca4a72bcdf/us-east-1/6141518204001/playlist.m3u8
 New Orleans Television (NOTV) (720p),http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
