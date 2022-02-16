@@ -1284,15 +1284,6 @@ EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/446502d9b45941efb5bf52f21a282471
 
 $c_start 新闻$c_end
 🎤新闻©频道,#genre#
-4K UHD,http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
-4K UHD,http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
-CCTV4K HDR,https://p.ggiptv.com/v/4k.m3u8
-CCTV4K HDR,http://ye23.win/iptv/4k.cctv.php
-CCTV奥林匹克4K HDR,http://223.110.235.9/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
-CCTV奥林匹克4K HDR,http://223.110.235.24/ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
-CCTV奥林匹克4K HDR,http://ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
-CCTV奥林匹克,http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
-CCTV奥林匹克,http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
 
 CCTV奥林匹克,http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?channel-id=ystenlive
 CCTV奥林匹克,http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
@@ -1316,6 +1307,7 @@ BBC News,p5p://fccs.123178.top:9906/616541100002c5f412e42871dce9c076
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 $c_start 央视$c_end
 🇨🇳CCTV央视,#genre#
+
 CCTV1HD,http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv1/1.m3u8?channel-id=ystenlive
 CCTV1HD,http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv1/1.m3u8?channel-id=ystenlive
 CCTV1HD,http://111.11.121.184:6610/030000001001/hdcctv01/1.m3u8?channel-id=ystenlive
@@ -1397,7 +1389,7 @@ CETV4,http://112.15.230.48/PLTV/88888888/224/3221230334/index.m3u8
 
 CHC动作电影,http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
 CHC家庭影院,http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
-CCTV4K 14M2160HDR,http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
+CCTV14M2160HDR,http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
 CCTV16-4K 25M2160,http://223.110.235.9/ott.js.chinamobile.com/PLTV/3/224/3221228168/index.m3u8
 CCTV16-4K 34M2160HDR,http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -2011,7 +2003,18 @@ TNTSPORTS 5[1280*720],https://glxlmn026c.singularcdn.net.br/playout_05/playlist-
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 $c_start 4K$c_end
 🎞️4K頻道,#genre#
+
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=13&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+4K UHD,http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
+4K UHD,http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
+CCTV4K HDR,https://p.ggiptv.com/v/4k.m3u8
+CCTV4K HDR,http://ye23.win/iptv/4k.cctv.php
+CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV奥林匹克4K HDR,http://223.110.235.9/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
+CCTV奥林匹克4K HDR,http://223.110.235.24/ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
+CCTV奥林匹克4K HDR,http://ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
+CCTV奥林匹克4K,http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
+CCTV奥林匹克4K,http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
 
 
 北京IPTV4K,http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND 
