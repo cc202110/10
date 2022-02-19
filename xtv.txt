@@ -1,7 +1,7 @@
 $c_start 测试2$c_end
 
 🌟测试2,#genre#
-
+http://27.36.62.161:8060/live/1350_4500.m3u8?t=csiseTn7DvuIntI280BV9w%3D%3D&u=17325845536&p=1&pid=&cid=598&l=001&d=6d74cffe8d39160f&sid=8MVi6k5jVCQih3VrbJr56g%3D%3D&r=20220219172704&e=20220219232709&nc=tXjdCtxAlVaR&a=1&v=2&ptype=1&plocation=001&puser=17325845536&ptoken=csiseTn7DvuIntI280BV9w%3D%3D&ot=0
 
 $c_start 测试1$c_end
 
