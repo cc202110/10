@@ -128,19 +128,17 @@ $c_start 新闻$c_end
 CCTV13,http://39.135.138.60:18890/TVOD/88888910/224/3221225638/index.m3u8
 北京新聞,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
 北京新聞,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=.
-CNBC Asia,p5p://fccs.123178.top:9906/604643c100068849088b8e0fef813f1c.ts
-CNBC Awaaz,mitv://ns2.hellotvvod.com:9906/d5f2b5f728a04933acfbfc0f63d6800f
-CNBC Awaaz,mitv://ns2.hellotvvod.com:9906/d5f2b5f728a04933acfbfc0f63d6800f
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+BBC World News,mitv://ns2.hellotvvod.com:9906/a1e038f1cfd74f758f916dc7e17572b5
 CNBC,mitv://ns2.hellotvvod.com:9906/52303054ad214adda0129d322912164d
 CNBC,mitv://ns2.hellotvvod.com:9906/52303054ad214adda0129d322912164d
 CNBC,mitv://ns2.hellotvvod.com:9906/52303054ad214adda0129d322912164d
 CNBC,mitv://ns2.hellotvvod.com:9906/52303054ad214adda0129d322912164d
-CNN Internationa,p5p://fccs.123178.top:9906/614941fe0007b8690d42a80e92bf1540
 CNN,mitv://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
 CNN,mitv://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
 CNN,mitv://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
 CNN,p5p://fccs.123178.top:9906/616540e1000379c612e37107b5b75c0b
-CNN/US HD,p5p://fccs.123178.top:9906/6163fbe0000960a10dede6a22930a24d
+
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -932,15 +930,6 @@ Z頻道,mitv://ns2.hellotvvod.com:9906/653db001ea4a4599ad4be5a98f9adf8c
 $c_start 港台$c_end
 🛰️港台,#genre#
 J2台,http://50.7.218.42:8278/j2_twn/playlist.m3u8?tid=ME1E2231530922315309&ct=19030&tsum=75566c3660711276e2c5e760db4ff840
-无线新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
-明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-无线财经,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
-VIUTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-VIUTV6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
-RHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-RHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
-翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 
 HKC有线新闻台,https://api.leonardpark.dev/live/icable/109
 HKC有线财经资讯台,https://api.leonardpark.dev/live/icable/108
@@ -1134,13 +1123,6 @@ Animax,mitv://ns2.hellotvvod.com:9906/10d8ae908a354513b09e38e7116b7b33
 
 AXN亞洲,mitv://ns2.hellotvvod.com:9906/91a1fa5c29a849cf897f93f58fd08285
 AXN亞洲,mitv://ns2.hellotvvod.com:9906/91a1fa5c29a849cf897f93f58fd08285
-
-BBC Earth,mitv://ns2.hellotvvod.com:9906/555289b9056947f18bb9658c62299697
-BBC Earth,p5p://fccs.123178.top:9906/6044049e000eb7a609a4da5fcd30cc43.ts
-BBC Lifestyle(越南）,p5p://fccs.123178.top:9906/61654125000bf07512e47cd210f0d3f6
-BBC Lifestyle,mitv://ns2.hellotvvod.com:9906/2dcc681591d640ceb91c09b5eb7cbb83
-BBC Lifestyle,p5p://fccs.123178.top:9906/614955d2000d41ca0d901d9987bbb53c
-BBC News,p5p://fccs.123178.top:9906/616541100002c5f412e42871dce9c076
 BBC World News,mitv://ns2.hellotvvod.com:9906/a1e038f1cfd74f758f916dc7e17572b5
 BBC WORLD NEWS,p5p://fccs.123178.top:9906/60464299000eba8708870be862b68160.ts
 
