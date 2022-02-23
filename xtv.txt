@@ -3,6 +3,9 @@
 $c_start 香港内置解码1$c_end
 
 🌟香港内置解码,#genre#
+切换内置解码,
+重启软件,
+其他分类软解,
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 翡翠台 (中英字幕),https://cdn.hkdtmb.com/hls/81b/index.m3u8
 J2台,https://cdn.hkdtmb.com/hls/82/index.m3u8
