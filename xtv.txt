@@ -1,301 +1,22 @@
-$c_start 测试2$c_end
 
-🌟测试2,#genre#
-翡翠台,http://27.36.62.161:8060/live/1350_4500.m3u8?t=csiseTn7DvuIntI280BV9w%3D%3D&u=17325845536&p=1&pid=&cid=598&l=001&d=6d74cffe8d39160f&sid=8MVi6k5jVCQih3VrbJr56g%3D%3D&r=20220219172704&e=20220219232709&nc=tXjdCtxAlVaR&a=1&v=2&ptype=1&plocation=001&puser=17325845536&ptoken=csiseTn7DvuIntI280BV9w%3D%3D&ot=0
 
 $c_start 测试1$c_end
 
 🌟测试1,#genre#
 
-凤凰资讯,http://206.119.173.184/tv/js.php?id=2
-凤凰香港,http://206.119.173.184/tv/js.php?id=3
-凤凰卫视,http://206.119.173.184/tv/js.php?id=1
-TVB星河,http://206.119.173.184/tv/js.php?id=7
-翡翠台,http://206.119.173.184/tv/js.php?id=4
-明珠台,http://206.119.173.184/tv/js.php?id=6
-J2,http://206.119.173.184/tv/js.php?id=9
-无线新闻,http://206.119.173.184/tv/js.php?id=12
-TVB经典台,http://206.119.173.184/tv/js.php?id=11
-无线财经,http://206.119.173.184/tv/js.php?id=13
-无线财经,http://206.119.173.184/tv/js.php?id=14
-VIU6,http://206.119.173.184/tv/js.php?id=16
-VIUTV,http://206.119.173.184/tv/js.php?id=15
-RHK32,http://206.119.173.184/tv/js.php?id=18
-TVBS欢乐台,http://206.119.173.184/tv/js.php?id=22
-nowSPORTS,http://206.119.173.184/tv/js.php?id=19
-C+,http://206.119.173.184/tv/js.php?id=21
-now直播,http://206.119.173.184/tv/js.php?id=20
-中天娱乐,http://206.119.173.184/tv/js.php?id=23
-中天综合,http://206.119.173.184/tv/js.php?id=25
-中视,http://206.119.173.184/tv/js.php?id=29
-民视,http://206.119.173.184/tv/js.php?id=30
-八大一台,http://206.119.173.184/tv/js.php?id=34
-华视,http://206.119.173.184/tv/js.php?id=32
-民视台湾台,http://206.119.173.184/tv/js.php?id=31
-RHK31,http://206.119.173.184/tv/js.php?id=17
-
-八大戏剧,http://206.119.173.184/tv/js.php?id=36
-八大综合,http://206.119.173.184/tv/js.php?id=35
-八大娱乐,http://206.119.173.184/tv/js.php?id=37
-三立台湾,http://206.119.173.184/tv/js.php?id=38
-三立戏剧,http://206.119.173.184/tv/js.php?id=39
-三立综合,http://206.119.173.184/tv/js.php?id=40
-三立都会,http://206.119.173.184/tv/js.php?id=41
-东森综合,http://206.119.173.184/tv/js.php?id=42
-东森财经,http://206.119.173.184/tv/js.php?id=44
-东森超视,http://206.119.173.184/tv/js.php?id=43
-龙华戏剧,http://206.119.173.184/tv/js.php?id=45
-民视第一,http://206.119.173.184/tv/js.php?id=46
-靖天国际,http://206.119.173.184/tv/js.php?id=48
-龙华偶像,http://206.119.173.184/tv/js.php?id=47
-靖天资讯,http://206.119.173.184/tv/js.php?id=49
-EYETV戏剧,http://206.119.173.184/tv/js.php?id=52
-Arirang,http://206.119.173.184/tv/js.php?id=51
-东森幼幼,http://206.119.173.184/tv/js.php?id=54
-纬来体育,http://206.119.173.184/tv/js.php?id=56
-纬来影剧,http://206.119.173.184/tv/js.php?id=55
-靖天卡通,http://206.119.173.184/tv/js.php?id=50
-爱尔达体育1,http://206.119.173.184/tv/js.php?id=57
-博斯魅力,http://206.119.173.184/tv/js.php?id=59
-博斯运动II,http://206.119.173.184/tv/js.php?id=60
-博斯高球II,http://206.119.173.184/tv/js.php?id=61
-博斯网球,http://206.119.173.184/tv/js.php?id=62
-
-AstroSP2,http://206.119.173.184/tv/js.php?id=65
-AstroSP1,http://206.119.173.184/tv/js.php?id=64
-博斯无限II,http://206.119.173.184/tv/js.php?id=63
-AstroSP3,http://206.119.173.184/tv/js.php?id=66
-TRUEfootball,http://206.119.173.184/tv/js.php?id=70
-EUROsport,http://206.119.173.184/tv/js.php?id=73
-GOLF,http://206.119.173.184/tv/js.php?id=74
-BeinSPORTS3,http://206.119.173.184/tv/js.php?id=75
-Astro ARENA,http://206.119.173.184/tv/js.php?id=76
-Astro ARENA2,http://206.119.173.184/tv/js.php?id=77
-SPOTV,http://206.119.173.184/tv/js.php?id=78
-SkySports,http://206.119.173.184/tv/js.php?id=80
-SkySports2,http://206.119.173.184/tv/js.php?id=85
-SkySports3,http://206.119.173.184/tv/js.php?id=86
-BT 2,http://206.119.173.184/tv/js.php?id=81
-82号[1920*1080],http://206.119.173.184/tv/js.php?id=82
-BT espn,http://206.119.173.184/tv/js.php?id=83
-84号[1024*576],http://206.119.173.184/tv/js.php?id=84
-WWE摔角,http://206.119.173.184/tv/js.php?id=71
-
-NBCsports,http://206.119.173.184/tv/js.php?id=72
-90号[1920*1080],http://206.119.173.184/tv/js.php?id=90
-89号[1024*576],http://206.119.173.184/tv/js.php?id=89
-HBO,http://206.119.173.184/tv/js.php?id=91
-HBOHITS,http://206.119.173.184/tv/js.php?id=92
-好莱坞电影,http://206.119.173.184/tv/js.php?id=94
-HBO家庭,http://206.119.173.184/tv/js.php?id=93
-CINEMAX,http://206.119.173.184/tv/js.php?id=95
-东森电影,http://206.119.173.184/tv/js.php?id=98
-大爱2,http://206.119.173.184/tv/js.php?id=97
-东森洋片,http://206.119.173.184/tv/js.php?id=99
-东森戏剧,http://206.119.173.184/tv/js.php?id=100
-AXN,http://206.119.173.184/tv/js.php?id=96
-AXN,http://206.119.173.184/tv/js.php?id=116
-龙翔时代,http://206.119.173.184/tv/js.php?id=102
-龙华洋片,http://206.119.173.184/tv/js.php?id=101
-天映经典,http://206.119.173.184/tv/js.php?id=103
-
-卫视中文,http://206.119.173.184/tv/js.php?id=104
-天映经典,http://206.119.173.184/tv/js.php?id=107
-天映频道,http://206.119.173.184/tv/js.php?id=106
-星卫电影,http://206.119.173.184/tv/js.php?id=109
-卫视中文,http://206.119.173.184/tv/js.php?id=108
-美亚电影,http://206.119.173.184/tv/js.php?id=110
-
-112号[1920*1080],http://206.119.173.184/tv/js.php?id=112
-113号[1920*1080],http://206.119.173.184/tv/js.php?id=113
-115号[1920*1080],http://206.119.173.184/tv/js.php?id=115
-HITSMOVIES,http://206.119.173.184/tv/js.php?id=118
-117号[1920*1080],http://206.119.173.184/tv/js.php?id=117
-国家地理台湾,http://206.119.173.184/tv/js.php?id=120
-动物星球,http://206.119.173.184/tv/js.php?id=122
-DMAX,http://206.119.173.184/tv/js.php?id=123
-SCI,http://206.119.173.184/tv/js.php?id=124
-探索亚洲,http://206.119.173.184/tv/js.php?id=126
-探索频道,http://206.119.173.184/tv/js.php?id=127
-亚洲旅游,http://206.119.173.184/tv/js.php?id=128
-TLC,http://206.119.173.184/tv/js.php?id=130
-星空卫视,http://206.119.173.184/tv/js.php?id=111
-HISTORY,http://206.119.173.184/tv/js.php?id=132
-131号[1280*720],http://206.119.173.184/tv/js.php?id=131
-WB TV,http://206.119.173.184/tv/js.php?id=114
-
-FTV,http://206.119.173.184/tv/js.php?id=133
-HGTV,http://206.119.173.184/tv/js.php?id=134
-TVBS新闻,http://206.119.173.184/tv/js.php?id=135
-TVBSHD,http://206.119.173.184/tv/js.php?id=136
-中视新闻,http://206.119.173.184/tv/js.php?id=138
-东森新闻,http://206.119.173.184/tv/js.php?id=140
-民视新闻,http://206.119.173.184/tv/js.php?id=139
-东森财经,http://206.119.173.184/tv/js.php?id=141
-壹新闻,http://206.119.173.184/tv/js.php?id=144
-SETINEWS,http://206.119.173.184/tv/js.php?id=145
-台视新闻,http://206.119.173.184/tv/js.php?id=143
-华视新闻资讯,http://206.119.173.184/tv/js.php?id=147
-华视新闻资讯,http://206.119.173.184/tv/js.php?id=146
-非凡新闻,http://206.119.173.184/tv/js.php?id=148
-年代新闻,http://206.119.173.184/tv/js.php?id=149
-150号[1280*720],http://206.119.173.184/tv/js.php?id=150
-152号[1280*720],http://206.119.173.184/tv/js.php?id=152
-FRANCE24,http://206.119.173.184/tv/js.php?id=153
-151号[1280*720],http://206.119.173.184/tv/js.php?id=151
-DW,http://206.119.173.184/tv/js.php?id=154
-CNN,http://206.119.173.184/tv/js.php?id=155
-BBCWORLDNEWS,http://206.119.173.184/tv/js.php?id=157
-158号[1280*720],http://206.119.173.184/tv/js.php?id=158
-160号[1280*720],http://206.119.173.184/tv/js.php?id=160
-RT,http://206.119.173.184/tv/js.php?id=161
-NHKWORLD,http://206.119.173.184/tv/js.php?id=162
-翡翠华丽台,http://206.119.173.184/tv/js.php?id=164
-156,http://206.119.173.184/tv/js.php?id=156
-Astro iqiyi,http://206.119.173.184/tv/js.php?id=169
-Astro小太阳,http://206.119.173.184/tv/js.php?id=168
-JET,http://206.119.173.184/tv/js.php?id=175
-176号[1280*720],http://206.119.173.184/tv/js.php?id=176
-159号[1280*720],http://206.119.173.184/tv/js.php?id=159
-177号[1280*720],http://206.119.173.184/tv/js.php?id=177
-173号[1280*720],http://206.119.173.184/tv/js.php?id=173
-178号[640*360],http://206.119.173.184/tv/js.php?id=178
-179号[1280*720],http://206.119.173.184/tv/js.php?id=179
-ELEVEN2,http://206.119.173.184/tv/js.php?id=181
-184号[1280*720],http://206.119.173.184/tv/js.php?id=184
-186号[1920*1080],http://206.119.173.184/tv/js.php?id=186
-187号[720*405],http://206.119.173.184/tv/js.php?id=187
-ELEVEN+,http://206.119.173.184/tv/js.php?id=180
-188号[720*405],http://206.119.173.184/tv/js.php?id=188
-172号[1280*720],http://206.119.173.184/tv/js.php?id=172
-192号[1280*720],http://206.119.173.184/tv/js.php?id=192
-193号[1280*720],http://206.119.173.184/tv/js.php?id=193
-195号[1280*720],http://206.119.173.184/tv/js.php?id=195
-197号[1920*1080],http://206.119.173.184/tv/js.php?id=197
-196号[1280*720],http://206.119.173.184/tv/js.php?id=196
-200号[1280*720],http://206.119.173.184/tv/js.php?id=200
-199号[720*405],http://206.119.173.184/tv/js.php?id=199
-202号[1280*720],http://206.119.173.184/tv/js.php?id=202
-201号[1280*720],http://206.119.173.184/tv/js.php?id=201
-203号[1920*1080],http://206.119.173.184/tv/js.php?id=203
-206号[1280*720],http://206.119.173.184/tv/js.php?id=206
-205号[720*405],http://206.119.173.184/tv/js.php?id=205
-204号[1920*1080],http://206.119.173.184/tv/js.php?id=204
-207号[1280*720],http://206.119.173.184/tv/js.php?id=207
-209号[1280*720],http://206.119.173.184/tv/js.php?id=209
-208号[1280*720],http://206.119.173.184/tv/js.php?id=208
-210号[1280*720],http://206.119.173.184/tv/js.php?id=210
-191号[1920*1080],http://206.119.173.184/tv/js.php?id=191
-194号[1280*720],http://206.119.173.184/tv/js.php?id=194
-211号[1280*720],http://206.119.173.184/tv/js.php?id=211
-
-
-
 
 $c_start 冬奥$c_end
 
 🌟冬奥,#genre#
-
-CCTV5,http://111.11.121.184:6610/030000001001/cctv-5/1.m3u8?channel-id=ystenlive
-CCTV5,http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv5/1.m3u8?channel-id=ystenlive
-CCTV5,http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv5/1.m3u8?channel-id=ystenlive
-CCTV5+HD,http://111.11.121.184:6610/030000001001/hdcctv05plus/1.m3u8?channel-id=ystenlive
-CCTV5+HD,http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv05plus/1.m3u8?channel-id=ystenlive
-咪咕_冬奥8,http://39.135.46.246:6610/PLTV/77777777/224/3221225808/index.m3u8?vamoschucktv
-咪咕_冬奥3,http://39.135.46.246:6610/PLTV/77777777/224/3221225839/index.m3u8?vamoschucktv
-咪咕 冬奥1,http://39.134.66.66/PLTV/88888888/224/3221225619/index.m3u8
-咪咕 冬奥0,http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
-咪咕CCTV1,http://39.135.46.246:6610/PLTV/77777777/224/3221225814/index.m3u8?vamoschucktv
-咪咕cctv5,http://39.135.46.246:6610/PLTV/77777777/224/3221225805/index.m3u8?vamoschucktv
-咪咕cctv5+,http://39.135.46.246:6610/PLTV/77777777/224/3221225854/index.m3u8?vamoschucktv
-咪咕冬奥纪实,http://39.135.46.246:6610/PLTV/77777777/224/3221225857/index.m3u8?vamoschucktv
-CCTV奥林匹克,http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?channel-id=ystenlive
+CCTV5-体育频道,http://117.148.179.142/PLTV/88888888/224/3221232440/index.m3u8
+CCTV5+体育赛事,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
+CCTV5+体育赛事,http://117.148.179.139/PLTV/88888888/224/3221231535/index.m3u8
 CCTV奥林匹克,http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
 CCTV奥林匹克,http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
-CCTV奥林匹克,http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?channel-id=ystenlive
-CNBC (1080p) [Not 24/7],http://s1.mysportz.tv:2082/CNBC/playlist.m3u8
-
-CCTV奥林匹克4K HDR,http://223.110.235.9/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
-CCTV奥林匹克4K HDR,http://223.110.235.24/ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
-CCTV奥林匹克4K HDR,http://ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
-CCTV奥林匹克4K HDR,http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
-CCTV奥林匹克4K HDR,http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=13&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-咪咕-4K,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?vamoschucktv
-咪咕-4K,http://39.135.46.246:6610/PLTV/77777777/224/3221225863/index.m3u8?vamoschucktv
 咪咕视频,http://39.134.66.66/PLTV/88888888/224/3221225617/index.m3u8
-
-广西咪咕—法甲-1,http://39.135.46.246:6610/PLTV/77777777/224/3221225786/index.m3u8?vamoschucktv
-广西咪咕—西甲-1,http://39.135.46.246:6610/PLTV/77777777/224/3221225817/index.m3u8?vamoschucktv
-
-广西咪咕—CBA-1,http://39.135.46.246:6610/PLTV/77777777/224/3221225811/index.m3u8?vamoschucktv
-广西咪咕—CBA-2,http://39.135.46.246:6610/PLTV/77777777/224/3221225783/index.m3u8?vamoschucktv
-广西咪咕—CBA-3,http://39.135.46.246:6610/PLTV/77777777/224/3221225780/index.m3u8?vamoschucktv
-广西咪咕—CBA-4,http://39.135.46.246:6610/PLTV/77777777/224/3221225848/index.m3u8?vamoschucktv
-广西咪咕—CBA-5,http://39.135.46.246:6610/PLTV/77777777/224/3221225851/index.m3u8?vamoschucktv
-
-广西咪咕-NBA-1,http://39.135.46.246:6610/PLTV/77777777/224/3221225842/index.m3u8?vamoschucktv
-
-
-
-广西咪咕_冬奥2,http://39.135.46.246:6610/PLTV/77777777/224/3221225799/index.m3u8?vamoschucktv
-广西咪咕_冬奥1,http://39.135.46.246:6610/PLTV/77777777/224/3221225793/index.m3u8?vamoschucktv
-广西咪咕_NBA6,http://39.135.46.246:6610/PLTV/77777777/224/3221225792/index.m3u8?vamoschucktv
-广西咪咕-赛事轮播,http://39.135.46.246:6610/PLTV/77777777/224/3221225965/index.m3u8?vamoschucktv
-广西咪咕-赛事轮播,http://39.135.46.246:6610/PLTV/77777777/224/3221225876/index.m3u8?vamoschucktv
-广西咪咕-赛事轮播,http://39.135.46.246:6610/PLTV/77777777/224/3221225935/index.m3u8?vamoschucktv
-广西咪咕-赛事轮播,http://39.135.46.246:6610/PLTV/77777777/224/3221225906/index.m3u8?vamoschucktv
-广西咪咕-国内赛事,http://39.135.46.246:6610/PLTV/77777777/224/3221225853/index.m3u8?vamoschucktv
-咪咕视频电视剧,http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
-广西咪咕_4,http://39.135.46.246:6610/PLTV/77777777/224/3221225962/index.m3u8?vamoschucktv
-广西咪咕_5,http://39.135.46.246:6610/PLTV/77777777/224/3221225959/index.m3u8?vamoschucktv
-广西咪咕_9,http://39.135.46.246:6610/PLTV/77777777/224/3221225920/index.m3u8?vamoschucktv
-广西咪咕_10,http://39.135.46.246:6610/PLTV/77777777/224/3221225917/index.m3u8?vamoschucktv
-广西咪咕_11,http://39.135.46.246:6610/PLTV/77777777/224/3221225914/index.m3u8?vamoschucktv
-广西咪咕_12,http://39.135.46.246:6610/PLTV/77777777/224/3221225911/index.m3u8?vamoschucktv
-广西咪咕_13,http://39.135.46.246:6610/PLTV/77777777/224/3221225908/index.m3u8?vamoschucktv
-广西咪咕_14,http://39.135.46.246:6610/PLTV/77777777/224/3221225905/index.m3u8?vamoschucktv
-广西咪咕_15,http://39.135.46.246:6610/PLTV/77777777/224/3221225902/index.m3u8?vamoschucktv
-广西咪咕_16,http://39.135.46.246:6610/PLTV/77777777/224/3221225899/index.m3u8?vamoschucktv
-广西咪咕_17,http://39.135.46.246:6610/PLTV/77777777/224/3221225896/index.m3u8?vamoschucktv
-广西咪咕_18,http://39.135.46.246:6610/PLTV/77777777/224/3221225893/index.m3u8?vamoschucktv
-广西咪咕_19,http://39.135.46.246:6610/PLTV/77777777/224/3221225871/index.m3u8?vamoschucktv
-广西咪咕_20,http://39.135.46.246:6610/PLTV/77777777/224/3221225868/index.m3u8?vamoschucktv
-广西咪咕_21,http://39.135.46.246:6610/PLTV/77777777/224/3221225865/index.m3u8?vamoschucktv
-广西咪咕_22,http://39.135.46.246:6610/PLTV/77777777/224/3221225862/index.m3u8?vamoschucktv
-广西咪咕_23,http://39.135.46.246:6610/PLTV/77777777/224/3221225861/index.m3u8?vamoschucktv
-广西咪咕_24,http://39.135.46.246:6610/PLTV/77777777/224/3221225860/index.m3u8?vamoschucktv
-广西咪咕_25,http://39.135.46.246:6610/PLTV/77777777/224/3221225859/index.m3u8?vamoschucktv
-广西咪咕_26,http://39.135.46.246:6610/PLTV/77777777/224/3221225858/index.m3u8?vamoschucktv
-广西咪咕_28,http://39.135.46.246:6610/PLTV/77777777/224/3221225856/index.m3u8?vamoschucktv
-广西咪咕_29,http://39.135.46.246:6610/PLTV/77777777/224/3221225855/index.m3u8?vamoschucktv
-
-广西咪咕_32,http://39.135.46.246:6610/PLTV/77777777/224/3221225852/index.m3u8?vamoschucktv
-广西咪咕_34,http://39.135.46.246:6610/PLTV/77777777/224/3221225849/index.m3u8?vamoschucktv
-广西咪咕_36,http://39.135.46.246:6610/PLTV/77777777/224/3221225846/index.m3u8?vamoschucktv
-广西咪咕_37,http://39.135.46.246:6610/PLTV/77777777/224/3221225845/index.m3u8?vamoschucktv
-广西咪咕_38,http://39.135.46.246:6610/PLTV/77777777/224/3221225843/index.m3u8?vamoschucktv
-广西咪咕_40,http://39.135.46.246:6610/PLTV/77777777/224/3221225840/index.m3u8?vamoschucktv
-
-广西咪咕_42,http://39.135.46.246:6610/PLTV/77777777/224/3221225837/index.m3u8?vamoschucktv
-广西咪咕_43,http://39.135.46.246:6610/PLTV/77777777/224/3221225834/index.m3u8?vamoschucktv
-广西咪咕_44,http://39.135.46.246:6610/PLTV/77777777/224/3221225820/index.m3u8?vamoschucktv
-
-
-广西咪咕_50,http://39.135.46.246:6610/PLTV/77777777/224/3221225802/index.m3u8?vamoschucktv
-
-广西咪咕_52,http://39.135.46.246:6610/PLTV/77777777/224/3221225796/index.m3u8?vamoschucktv
-
-广西咪咕_55,http://39.135.46.246:6610/PLTV/77777777/224/3221225789/index.m3u8?vamoschucktv
-广西咪咕_59,http://39.135.46.246:6610/PLTV/77777777/224/3221225777/index.m3u8?vamoschucktv
-广西咪咕_60,http://39.135.46.246:6610/PLTV/77777777/224/3221225774/index.m3u8?vamoschucktv
-广西咪咕_61,http://39.135.46.246:6610/PLTV/77777777/224/3221225771/index.m3u8?vamoschucktv
-广西咪咕_62,http://39.135.46.246:6610/PLTV/77777777/224/3221225769/index.m3u8?vamoschucktv
-广西咪咕_63,http://39.135.46.246:6610/PLTV/77777777/224/3221225654/index.m3u8?vamoschucktv
-
-4K修复,http://ott.js.chinamobile.com/PLTV/3/224/3221228141/index.m3u8
-4K修复,http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228141/index.m3u8
-
+咪咕1,http://39.134.66.66/PLTV/88888888/224/3221225619/index.m3u8
+咪咕0,http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
 
 
 
@@ -660,10 +381,6 @@ BBC Earth,mitv://ns2.hellotvvod.com:9906/555289b9056947f18bb9658c62299697
 BBC Lifestyle,mitv://ns2.hellotvvod.com:9906/2dcc681591d640ceb91c09b5eb7cbb83
 BBC World News,mitv://ns2.hellotvvod.com:9906/a1e038f1cfd74f758f916dc7e17572b5
 Al Jazeera English,mitv://ns2.hellotvvod.com:9906/f24308be3336455bb0f20ddcd641d725
-
-Al 208,mitv://51.81.90.208:9906/f24308be3336455bb0f20ddcd641d725
-Al 207,mitv://51.81.90.207:9906/f24308be3336455bb0f20ddcd641d725
-Al 177,mitv://51.81.90.177:9906/f24308be3336455bb0f20ddcd641d725
 Sky News,mitv://ns2.hellotvvod.com:9906/9abf41880e9b4ac9a94ea8124203799a
 CNBC,mitv://ns2.hellotvvod.com:9906/52303054ad214adda0129d322912164d
 Bloomberg TV,mitv://ns2.hellotvvod.com:9906/3e4c9ed6b58342fbaa531f02aa120a58
@@ -1312,36 +1029,6 @@ BBC News,p5p://fccs.123178.top:9906/616541100002c5f412e42871dce9c076
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 $c_start 央视$c_end
 🇨🇳CCTV央视,#genre#
-
-CCTV1HD,http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv1/1.m3u8?channel-id=ystenlive
-CCTV1HD,http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv1/1.m3u8?channel-id=ystenlive
-CCTV1HD,http://111.11.121.184:6610/030000001001/hdcctv01/1.m3u8?channel-id=ystenlive
-CCTV2,http://111.11.121.184:6610/030000001001/cctv-2/1.m3u8?channel-id=ystenlive
-CCTV3HD,http://111.11.121.184:6610/030000001001/cctv-3/1.m3u8?channel-id=ystenlive
-CCTV3HD,http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv3/1.m3u8?channel-id=ystenlive
-CCTV4,http://111.11.121.184:6610/030000001001/cctv-4/1.m3u8?channel-id=ystenlive
-CCTV5,http://111.11.121.184:6610/030000001001/cctv-5/1.m3u8?channel-id=ystenlive
-CCTV5,http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv5/1.m3u8?channel-id=ystenlive
-CCTV5,http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv5/1.m3u8?channel-id=ystenlive
-CCTV5+HD,http://111.11.121.184:6610/030000001001/hdcctv05plus/1.m3u8?channel-id=ystenlive
-CCTV5+HD,http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv05plus/1.m3u8?channel-id=ystenlive
-CCTV6HD,http://111.11.121.184:6610/030000001001/cctv-6/1.m3u8?channel-id=ystenlive
-CCTV6HD,http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv6/1.m3u8?channel-id=ystenlive
-CCTV7,http://111.11.121.184:6610/030000001001/cctv-7/1.m3u8?channel-id=ystenlive
-CCTV8HD,http://111.11.121.184:6610/030000001001/cctv-8/1.m3u8?channel-id=ystenlive
-CCTV8HD,http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv8/1.m3u8?channel-id=ystenlive
-CCTV9FHD,http://111.11.121.184:6610/030000001001/cctv-news/1.m3u8?channel-id=ystenlive
-CCTV10HD,http://111.11.121.184:6610/030000001001/cctv-10/1.m3u8?channel-id=ystenlive
-CCTV11HD,http://111.11.121.184:6610/030000001001/cctv-11/1.m3u8?channel-id=ystenlive
-CCTV12HD,http://111.11.121.184:6610/030000001001/cctv-12/1.m3u8?channel-id=ystenlive
-CCTV13HD,http://111.11.121.184:6610/030000001001/cctv-13/1.m3u8?channel-id=ystenlive
-CCTV14HD,http://111.11.121.184:6610/030000001001/cctv-14/1.m3u8?channel-id=ystenlive
-CCTV15HD,http://111.11.121.184:6610/030000001001/cctv-15/1.m3u8?channel-id=ystenlive
-CCTV奥林匹克HD,http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?channel-id=ystenlive
-CCTV17HD,http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?channel-id=ystenlive
-CGTN,http://111.11.121.184:6610/030000001001/cctv-9/1.m3u8?channel-id=ystenlive
-
-
 
 CCTV1-综合频道,http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
 CCTV1-综合频道,http://117.148.179.155/PLTV/88888888/224/3221231471/index.m3u8
