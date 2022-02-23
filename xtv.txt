@@ -123,25 +123,24 @@ Eurosport HD,mitv://ns2.hellotvvod.com:9906/047ba1fc376a4ef88c305a659fbb236f
 
 
 $c_start 新闻$c_end
-🎤新闻©频道,#genre#
+新闻,#genre#
 
-CCTV奥林匹克,http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?channel-id=ystenlive
-CCTV奥林匹克,http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
-CCTV奥林匹克,http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
-CCTV奥林匹克,http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?channel-id=ystenlive
-CCTV13,http://111.11.121.184:6610/030000001001/cctv-13/1.m3u8?channel-id=ystenlive
-CCTV13,http://223.110.251.219:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/.m3u8
 CCTV13,http://39.135.138.60:18890/TVOD/88888910/224/3221225638/index.m3u8
-
 北京新聞,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
 北京新聞,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=.
-凤凰資訊,http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-凤凰資訊,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-HKC新聞台,P2p://ns2.hellotvvod.com:9906/a8429ecad2e446e18c362b031e3d32bf
-HKC新聞台,https://api.leonardpark.dev/live/icable/109
-無綫新聞台,P2p://ns2.hellotvvod.com:9906/977fac4b93af4ee0a190f38217d79e51
-BBC World News,P2p://ns2.hellotvvod.com:9906/a1e038f1cfd74f758f916dc7e17572b5
-BBC News,p5p://fccs.123178.top:9906/616541100002c5f412e42871dce9c076
+CNBC Asia,p5p://fccs.123178.top:9906/604643c100068849088b8e0fef813f1c.ts
+CNBC Awaaz,mitv://ns2.hellotvvod.com:9906/d5f2b5f728a04933acfbfc0f63d6800f
+CNBC Awaaz,mitv://ns2.hellotvvod.com:9906/d5f2b5f728a04933acfbfc0f63d6800f
+CNBC,mitv://ns2.hellotvvod.com:9906/52303054ad214adda0129d322912164d
+CNBC,mitv://ns2.hellotvvod.com:9906/52303054ad214adda0129d322912164d
+CNBC,mitv://ns2.hellotvvod.com:9906/52303054ad214adda0129d322912164d
+CNBC,mitv://ns2.hellotvvod.com:9906/52303054ad214adda0129d322912164d
+CNN Internationa,p5p://fccs.123178.top:9906/614941fe0007b8690d42a80e92bf1540
+CNN,mitv://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
+CNN,mitv://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
+CNN,mitv://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
+CNN,p5p://fccs.123178.top:9906/616540e1000379c612e37107b5b75c0b
+CNN/US HD,p5p://fccs.123178.top:9906/6163fbe0000960a10dede6a22930a24d
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
