@@ -1,6 +1,6 @@
 
 
-$c_start 测试1$c_end
+$c_start 香港内置解码1$c_end
 
 🌟香港内置解码,#genre#
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
